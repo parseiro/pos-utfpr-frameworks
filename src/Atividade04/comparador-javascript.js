@@ -1,3 +1,5 @@
+// Atividade 4 com JavaScript ES6
+// Autor: Leonardo Vilela Pinheiro
 // Como executar: node .\comparador-javascript.js
 
 class Posto {
