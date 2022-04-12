@@ -2,7 +2,7 @@
   "name": "pos-utfpr-frameworks",
   "version": "1.0.0",
   "description": "",
-  "main": "caixa-eletronico.js",
+  "main": "Atividade01/caixa-eletronico.js",
   "dependencies": {
     "jquery": "^3.6.0"
   },
