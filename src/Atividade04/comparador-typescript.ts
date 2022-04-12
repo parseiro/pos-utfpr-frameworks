@@ -1,3 +1,5 @@
+// Atividade 4 com TypeScript
+// Autor: Leonardo Vilela Pinheiro
 // Como compilar: tsc comparador-typescript.ts --target es6
 // Como executar: node .\comparador-typescript.js
 
