@@ -1,0 +1,26 @@
+{
+  "name": "pos-utfpr-frameworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caixa-eletronico.js",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parseiro/pos-utfpr-frameworks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parseiro/pos-utfpr-frameworks/issues"
+  },
+  "homepage": "https://github.com/parseiro/pos-utfpr-frameworks#readme"
+}
