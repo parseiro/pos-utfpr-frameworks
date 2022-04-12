@@ -1,4 +1,4 @@
-console.log("Inicializando...");
+// console.log("Inicializando...");
 
 const valor = document.getElementById("valor");
 
